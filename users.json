@@ -1,0 +1,26 @@
+[
+    {
+        "studentId": "admin",
+        "password": "123",
+        "fullName": "Admin User",
+        "dob": "1990-01-01",
+        "age": 35,
+        "degree": "Administration",
+        "year": 4,
+        "gender": "Male",
+        "university": "Admin University",
+        "role": "admin"
+    },
+    {
+        "studentId": "member",
+        "password": "123",
+        "fullName": "Member User",
+        "dob": "2000-01-01",
+        "age": 22,
+        "degree": "Computer Science",
+        "year": 3,
+        "gender": "Female",
+        "university": "Demo University",
+        "role": "member"
+    }
+]
